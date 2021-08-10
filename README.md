@@ -1,4 +1,4 @@
-# MoviesLy
+# BooksMania
 
 BooksMania is an app to explore or search Books by ISBN.
 
